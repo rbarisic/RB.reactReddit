@@ -1,4 +1,4 @@
-#RB.reactReddit
+# RB.reactReddit
 
 This is an example of a reddit client using react.js
 
