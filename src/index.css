@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+ul.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.list li.list-element {
+  display: flex;
+
+  align-items: center;
+  justify-content: flex-start;
+
+  padding: 12px;
+  padding-left: 0;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+ul.list li.list-element .block {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.ts {
+  font-size: 12px;
+}
+
+.center {
+  text-align: center;
+}
+
+a.link-grey {
+  color: grey;
+  text-decoration: none;
+}
+
+.mb {
+  margin-bottom: 4px;
+}
+
+button {
+  margin-right: 10px;
+}
